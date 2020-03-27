@@ -63,6 +63,7 @@ const LinkWrapper = styled.ul`
 			color: ${styles.colors.mainYellow};
 			padding: 0.5rem 1rem 0.5rem 1.3rem;
 		}
+		font-family: 'Roboto Condensed', sans-serif;
 	}
 	height: ${(props) => (props.open ? '152px' : '0px')};
 	overflow: hidden;
